@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on new exciting games!
 - 🤔 I’m looking for help learning Rust and Bevy.
 - 💬 Ask me about Game Design!
-- 📫 How to reach me: [@plotlessplot](https://twitter.com/plotlessplot)
+- 📫 How to reach me: [@plotlessplot](https://mastodon.social/@plotlessplot)
 - 😄 Pronouns: He/Him
